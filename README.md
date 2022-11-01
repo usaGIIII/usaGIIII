@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @usaGIIII
+- 👋 Hi, I’m @usaGi
 - 👀 I’m interested in code & sec
 - 🌱 I’m currently learning stuff
 - 💞️ I’m looking to collaborate on things
